@@ -1,0 +1,2 @@
+# PostsCollection
+blog
